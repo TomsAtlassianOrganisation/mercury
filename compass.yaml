@@ -1,0 +1,11 @@
+configVersion: 1
+name: mercury-service
+id: 'ari:cloud:compass:32bd3907-7ed2-4d9c-88c3-b836a5a93d57:component/ff210e48-f95a-49b7-8031-06e8fe945299/bdb1a636-f5e6-4eb7-9634-2b0d6a205a37'
+description: This is a sample component in Compass.
+typeId: SERVICE
+ownerId: null
+fields: {}
+labels: []
+links: []
+customFields: []
+relationships: {}
